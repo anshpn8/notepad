@@ -1,7 +1,7 @@
 # notepad
 This a Java project made for the Eduction purpose. So that from java coding make some action and use in a software.
 
-# Use Class/Package/API
+# Used java components
 -AWT Library(package)
 -Swing framework
 -I/O API
